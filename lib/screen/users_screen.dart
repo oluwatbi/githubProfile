@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:githubProfile/models/user_model.dart';
-import 'package:githubProfile/providers/api_github.dart';
+import 'package:githubProfile/services/github_service.dart';
 
 class UsersList extends StatelessWidget {
 
